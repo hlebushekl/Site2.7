@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Верстка",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Верстка"
+	}
+}
